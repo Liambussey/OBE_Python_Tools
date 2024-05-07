@@ -33,3 +33,5 @@ The code makes a number of assumptions:
 - That the number of atomic levels is equal to 1 plus the number of fields. This is consistent with a ladder system in which each level is coupled to the ones above and below it (except for the top and bottom levels).
 - That each level only decays to the level below it, and there is no decay out of the bottom level. 
 - That laser linewidths do not matter (unless they are explicitly specified).
+- 
+test edit
